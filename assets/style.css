@@ -1,0 +1,26 @@
+button {
+    border-right: solid;
+    border-bottom: solid;
+    text-align: center;
+    background-color: navy;
+    color: #ccc;
+}
+header {
+    background-color: wheat;
+    border-style: solid;
+    text-align: center;
+}
+img {
+  border-right-style: solid;
+  border-bottom-style: solid;
+  padding: 2px;
+}
+body {
+  background-color: seashell;
+  text-align: center;
+}
+div {
+  border-style: solid;
+  background-color: wheat;
+  text-align: center;
+}
